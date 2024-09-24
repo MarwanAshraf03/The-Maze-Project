@@ -3,10 +3,8 @@
 ## Introduction
 Welcome to **The Maze Project**! This project showcases a maze game developed using ray casting techniques. The game features dynamic graphics and engaging gameplay.
 
-You can play the game at [Your Deployed Site Link](#). For a detailed overview of the project, check out my blog article [here](#). 
-
 ### Author(s)
-- [Marwan Ashraf](https://www.linkedin.com/in/marwanashraf03/)
+- [Marwan Ashraf](https://www.linkedin.com/in/marwan-ashraf-09b840270/)
 
 ## Installation
 To install this project locally, follow these steps:
@@ -31,7 +29,17 @@ To install this project locally, follow these steps:
 
 ## Usage
 Launch the game and navigate through the maze using the keyboard controls. The objective is to find your way to the exit while avoiding obstacles.
+## Controls
+Here are the keyboard controls for navigating the maze:
 
+| Key                | Action                          |
+|--------------------|---------------------------------|
+| `M`                | Toggle the minimap              |
+| `1` to `6`         | Change the map layout           |
+| `Up Arrow`         | Move forward                    |
+| `Down Arrow`       | Move backward                   |
+| `Right Arrow`      | Rotate clockwise                |
+| `Left Arrow`       | Rotate counterclockwise         |
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
@@ -51,8 +59,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## Related Projects
-- [Project A](#) - Brief description of Project A
-- [Project B](#) - Brief description of Project B
+- [MVP](https://github.com/MarwanAshraf03/MVP) - An initial stage of the project.
 
 ## Licensing
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
