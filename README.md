@@ -22,11 +22,11 @@ To install this project locally, follow these steps:
 3. Install the necessary dependencies. Ensure you have [SDL2](https://www.libsdl.org/) installed.
 4. Compile the project:
    ```bash
-   make
+   gcc *.c -o Game `sdl2-config --cflags --libs` -lm -Wall -Werror -Wextra -pedantic
    ```
 5. Run the game:
    ```bash
-   ./maze_game
+   ./Game
    ```
 
 ## Usage
